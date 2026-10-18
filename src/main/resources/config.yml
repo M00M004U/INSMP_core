@@ -1,0 +1,6 @@
+disable-nether: true
+
+disable-end: true
+
+disable-ender-chests: true
+disable-ender-chests-message: "Sorry! The use of ender chests are banned."
